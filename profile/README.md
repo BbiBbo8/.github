@@ -21,12 +21,6 @@
 <br><br>
 
 ## 멤버
-이수민 (프런트엔드 개발자, [블로그](https://velog.io/@suminlee0409/posts))<br>
-유경민 (프런트엔드 개발자, [블로그](https://yuuuuukko.tistory.com/))<br>
-박나현 (프런트엔드 개발자, [블로그](https://velog.io/@pna9904/posts))<br>
-장현빈 (프런트엔드 개발자, [블로그](https://velog.io/@33hyun/posts))<br>
-이록기 (프런트엔드 개발자, [블로그](https://tigulmoa.tistory.com/))<br>
-유정민 (프로덕트 디자이너, [블로그]())
 
 |이름|역할|블로그|
 |------|---|---|
